@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zepto-assignment/static/css/main.3c6f2d26.css",
+    "main.js": "/zepto-assignment/static/js/main.94dd948b.js",
+    "static/js/787.4b983809.chunk.js": "/zepto-assignment/static/js/787.4b983809.chunk.js",
+    "index.html": "/zepto-assignment/index.html",
+    "main.3c6f2d26.css.map": "/zepto-assignment/static/css/main.3c6f2d26.css.map",
+    "main.94dd948b.js.map": "/zepto-assignment/static/js/main.94dd948b.js.map",
+    "787.4b983809.chunk.js.map": "/zepto-assignment/static/js/787.4b983809.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c6f2d26.css",
+    "static/js/main.94dd948b.js"
+  ]
+}
